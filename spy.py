@@ -156,10 +156,10 @@ def menu_apikey():
 ╚═╝  ╚═╝╚══════╝   ╚═╝   
                          
     ┌───────────────────────────────────────┐
-    │ [✓] AUTHOR   : RS ROCKY            │
+    │ [✓] AUTHOR   : RS ROCKY                  │
     │ [✓] GITHUB   : RS-ROCKY                 │
     │ [✓] WHATSAPP : +8801316686453         │
-    │ [✓] VERSION  : 3.1                   │
+    │ [✓] VERSION  : 3.8                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN VIRUS TEAM-NSN & ANONYMOUS CYBER ™ \033[1;37m ")
